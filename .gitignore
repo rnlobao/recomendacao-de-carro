@@ -1,0 +1,5 @@
+# Ignorar arquivos .DS_Store
+.DS_Store
+
+# Ignorar todos os arquivos CSV
+*.csv
