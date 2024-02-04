@@ -11,6 +11,7 @@ para o usuário do sistema quais os veículos em questão. Com base na avaliaç�
 <img src="https://github.com/rnlobao/recomendacao-de-carro/assets/66230142/8b4e3be9-0bd5-4ea1-a935-8224f9b5018b" alt="Imagem 1" width="400">
 <img src="https://github.com/rnlobao/recomendacao-de-carro/assets/66230142/1851bc8b-9249-4a9e-9310-7be365809e58" alt="Imagem 2" width="400">
 <img src="https://github.com/rnlobao/recomendacao-de-carro/assets/66230142/06b45505-6f06-4d98-aff3-0b48969e8691" alt="Imagem 3" width="400">
+<img src="https://github.com/rnlobao/recomendacao-de-carro/assets/66230142/4cb5e607-0fef-4739-8575-55a45fdb6f9b" alt="Imagem 4" width="400">
 
 
 A imagem superior esquerda é o carro base, o restante são os carros recomendados.
