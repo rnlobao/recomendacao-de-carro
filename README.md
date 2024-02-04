@@ -5,6 +5,9 @@ recomendar outros 3 semelhantes a ele.
 Nossos datasets utilizados foram o [dataset](https://www.kaggle.com/datasets/ankkur13/edmundsconsumer-car-ratings-and-reviews/data?select=Scraped_Car_Review_mazda.csv) de rating
 e o [dataset](https://www.kaggle.com/datasets/robsonnovato/car-features) com os veículos criado especialmente com todos veículos únicos do primeiro dataset.
 
+<img width="629" alt="image" src="https://github.com/rnlobao/recomendacao-de-carro/assets/66230142/40bc9de8-9fd6-46bb-858c-181756689d6a">
+
+
 A métrica de distância KNN com melhor resultado foi a do cosseno. Ademais, utilizando uma biblioteca externa foi possível baixar imagens da internet para deixar mais lúdico
 para o usuário do sistema quais os veículos em questão. Com base na avaliação dos usuários do primeiro dataset, **72,98%** das recomendações tem rating >= a 4 (de 1 a 5).
 
